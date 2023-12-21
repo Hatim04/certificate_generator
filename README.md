@@ -1,0 +1,8 @@
+- To run this project you need to import database named certificate in database folder.
+- move all files in xampp htdocs folder if testing locally.
+- open your browser and write localhost/certificate and then main dashboard will be visible.
+- you can add users/students then you can view whole list of users/students.
+- after entering data click on generate certificate.
+- It will create a jpg and pdf files of certificates of all the available user in one click.
+-  Created certificates can be accessed from sample folder provided in project.
+  ---------------------------------Thank you----------------------------------------
