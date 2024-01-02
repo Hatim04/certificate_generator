@@ -1,8 +1,27 @@
-- To run this project you need to import database named certificate in database folder.
-- move all files in xampp htdocs folder if testing locally.
-- open your browser and write localhost/certificate and then main dashboard will be visible.
-- you can add users/students then you can view whole list of users/students.
-- after entering data click on generate certificate.
-- It will create a jpg and pdf files of certificates of all the available user in one click.
--  Created certificates can be accessed from sample folder provided in project.
-  ---------------------------------Thank you----------------------------------------
+# Certificate Generator
+
+This project is a simple certificate generator implemented using PHP, JavaScript, HTML, and Tailwind CSS.
+
+## Overview
+
+The Certificate Generator allows users to automatically generate certificates by providing necessary details. The generated certificates are styled using Tailwind CSS to enhance the visual appeal.
+
+## Features
+
+- **Dynamic Generation:** Easily generate certificates by filling in required details.
+- **Responsive Design:** The user interface is designed to be responsive and user-friendly.
+- **Tailwind CSS:** Stylish and modern design achieved through the use of Tailwind CSS.
+
+## Technologies Used
+
+- **PHP:** Backend scripting language for certificate generation logic.
+- **JavaScript:** Enhances the interactivity and dynamic aspects of the application.
+- **HTML:** Provides the structure for the web pages.
+- **Tailwind CSS:** Used for styling and layout.
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/certificate-generator.git
