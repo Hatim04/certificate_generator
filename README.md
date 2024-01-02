@@ -24,4 +24,4 @@ The Certificate Generator allows users to automatically generate certificates by
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/certificate-generator.git
+   git clone https://github.com/Hatim04/certificate_generator.git
